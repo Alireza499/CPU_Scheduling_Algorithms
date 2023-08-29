@@ -1,6 +1,5 @@
 # CPU Scheduling Methods Notebook
 
-![CPU Scheduling](scheduling_image.png) <!-- Replace with an image illustrating CPU scheduling -->
 
 This is a Colab notebook that explores various CPU scheduling methods commonly used in operating systems. The notebook provides explanations, code examples, and visualizations for the following scheduling algorithms:
 
